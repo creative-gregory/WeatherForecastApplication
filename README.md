@@ -20,7 +20,7 @@ The current weather data and  forecast of the next 7 days in 3 hour increments c
 - UIKit
 - AlamoFire
 - SwiftyJSON
-- OpenWeather API Version 2.5
+- OpenWeather API Version 2.5 (https://openweathermap.org/)
 
 
 ## Application Demo
